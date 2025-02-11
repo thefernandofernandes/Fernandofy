@@ -22,7 +22,7 @@ const Home = () => {
             <Link to="/musicas" className="card-button">Ver Mais</Link>
           </div>
           <div className="card">
-            <iframe src="https://open.spotify.com/embed/artist/2YZyLoL8WfxfXXf0hWnV6D" allowFullScreen></iframe>
+            <iframe src="https://open.spotify.com/embed/artist/2YZyLoL8N0Wb9xBt1NhZWg" allowFullScreen></iframe>
             <p>Kendrick Lamar - Um dos Meus Favoritos</p>
             <Link to="/artistas" className="card-button">Ver Artistas</Link>
           </div>
