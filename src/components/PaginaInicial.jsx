@@ -33,7 +33,9 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <footer>Fᴇʀɴᴀɴᴅᴏ Fᴇʀɴᴀɴᴅᴇs © ⁻ 2025.</footer>
     </div>
+    
   );
 };
 
